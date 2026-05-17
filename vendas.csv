@@ -1,0 +1,25 @@
+produto,categoria,quantidade,valor,data_venda
+Notebook Dell,Eletrônicos,1,3500.00,2024-01-15
+Mouse Gamer,Eletrônicos,2,150.00,2024-01-20
+Cadeira Ergonômica,Móveis,1,850.00,2024-02-10
+Mesa Digital,Móveis,1,1200.00,2024-02-15
+Monitor 24pol,Eletrônicos,1,1100.00,2024-03-01
+Teclado Mecânico,Eletrônicos,1,280.00,2024-03-05
+Fone Bluetooth,Eletrônicos,2,200.00,2024-03-10
+Smartwatch,Eletrônicos,1,450.00,2024-03-15
+Livro SQL para Análise,Livros,1,89.00,2024-04-01
+Curso Online de Dados,Educação,1,197.00,2024-04-05
+SSD 1TB,Eletrônicos,1,450.00,2024-04-10
+Livro Python para Dados,Livros,2,160.00,2024-04-12
+Cadeira Gamer,Móveis,1,950.00,2024-04-18
+Monitor 27pol,Eletrônicos,1,1450.00,2024-04-20
+Webcam HD,Eletrônicos,1,320.00,2024-04-22
+Suporte para Monitor,Móveis,2,180.00,2024-04-25
+Curso de Java,Educação,1,249.00,2024-05-01
+Livro Clean Code,Livros,1,120.00,2024-05-03
+Hub USB,Eletrônicos,3,90.00,2024-05-05
+Tapete Gamer,Acessórios,1,75.00,2024-05-07
+Teclado sem fio,Eletrônicos,1,180.00,2024-05-10
+Cadeira de Escritório,Móveis,1,650.00,2024-05-12
+Fone com fio,Eletrônicos,3,150.00,2024-05-14
+Mousepad Gamer,Acessórios,2,60.00,2024-05-14
