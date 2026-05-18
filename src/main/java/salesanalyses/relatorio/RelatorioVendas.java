@@ -2,7 +2,7 @@ package main.java.salesanalyses.relatorio;
 import java.util.HashMap;
 
 public class RelatorioVendas {
-    public static void gerarRelatorio(HashMap mapaDeAnaliseDeVendas){
+    public static void gerarRelatorio(HashMap<String, Double> mapaDeAnaliseDeVendas){
         String relatorio = "Relatório de vendas por categorias: ";
     mapaDeAnaliseDeVendas.forEach((categoria, preco) -> {
         System.out.println("\nCategoria: " + categoria + " | Total: R$ " + preco);

@@ -14,7 +14,7 @@ public class Principal {
         Scanner scanner = new Scanner(System.in);
         String nomeArquivo = scanner.nextLine();
         ArrayList<Venda> vendas = LeitorVendas.lerVendas(nomeArquivo);
-        HashMap mapaVendas = AnalisadorVendas.agruparPorCategoria(vendas);
+        HashMap<String, Double> mapaVendas = AnalisadorVendas.agruparPorCategoria(vendas);
         RelatorioVendas.gerarRelatorio(mapaVendas);
 
     }
